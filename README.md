@@ -1,6 +1,10 @@
+hello, i'm fay and i love to build pretty things
 
 
-ideas / to do 
+
+
+*ideas / to do *
+
 
 - add an audio feature to firstloved
 - add verse of the day feature to personal website, scrolling animation in the footer showing the verse (using bibleapi)
