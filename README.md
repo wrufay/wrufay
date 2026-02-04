@@ -1,5 +1,5 @@
 ### hello! I'm Fay ☺︎ 
-- 1st year CS 👩‍💻 student at the University of Waterloo
+- 1️⃣st year computer science student at the University of Waterloo
 - from [**Nova Scotia**](https://en.wikipedia.org/wiki/Nova_Scotia)
 
 currently building: Anki in your terminal, social platform for Christians, all-in-one Chrome Extension productivity tracker
