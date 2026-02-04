@@ -1,7 +1,7 @@
-### who is FAY? 
-1st ☝️ year CS 👩‍💻 student at the University of Waterloo
-previously: "random person from Nova Scotia" ✌️
-currently: builder 🛠️
+### hello! I'm Fay ☺︎ 
+- 1st year CS 👩‍💻 student at the University of Waterloo
+- from [**Nova Scotia**](https://en.wikipedia.org/wiki/Nova_Scotia)
 
+currently building: Anki in your terminal, social platform for Christians, all-in-one Chrome Extension productivity tracker
 
-[current obsession 📀🎧](https://music.youtube.com/playlist?list=PLUYtwN9SiBt8-o2EdnquCAeLSNLNzVwbR&si=KfMrhUwl5uW-30F1)
+[📀🎧](https://music.youtube.com/playlist?list=PLUYtwN9SiBt8-o2EdnquCAeLSNLNzVwbR&si=KfMrhUwl5uW-30F1)
