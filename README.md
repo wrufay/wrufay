@@ -1,6 +1,6 @@
 ### hello! I'm Fay ☺︎ 
 - 1st year computer science 👩‍💻 student at the University of Waterloo
-- from Dartmouth, [**Nova Scotia**](https://en.wikipedia.org/wiki/Nova_Scotia)
+- originally from Dartmouth, [**Nova Scotia**](https://en.wikipedia.org/wiki/Nova_Scotia) 
 
 currently building: Anki in your terminal, social platform for Christians, all-in-one Chrome Extension productivity tracker
 
