@@ -4,7 +4,7 @@
 
 - developing full-stack tools and user interfaces for ocean scientists at [DFO](https://www.dfo-mpo.gc.ca/index-eng.html) 🐳
 
-- prob working on my [personal site](https://faywu.ca/) or building [niche](https://swwd.vercel.app/) [internet](https://chattychuds.vercel.app/) [trinkets](https://www.koinyou.com/) with my frenzz 🧤
+- always tweaking my [website](https://faywu.ca/) and building [niche](https://swwd.vercel.app/) [internet](https://chattychuds.vercel.app/) [trinkets](https://www.koinyou.com/) w/ friends 🧤
 
 
 until we meet again 😼
