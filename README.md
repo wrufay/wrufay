@@ -1,9 +1,10 @@
 ### hello! I'm Fay ☺︎ 
-⭐️ incoming 2nd year computer science student at the [University of Waterloo](https://uwaterloo.ca/), currently in [the big ns](https://www.google.com/search?q=nova+scotia&oq=nova+scotia&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMhAIARAuGJECGLEDGIAEGIoFMgYIAhAjGCcyFQgDEC4YQxjHARixAxjRAxiABBiKBTIQCAQQLhjHARixAxjRAxiABDINCAUQABiRAhiABBiKBTIGCAYQRRhBMgYIBxBFGEHSAQgyNTAzajBqN6gCALACAA&sourceid=chrome&ie=UTF-8) 🦞
+⭐️ currently:
+- incoming 2nd year computer science student @ [uwaterloo](https://uwaterloo.ca/) 🦞
 
-⭐️ currently developing full-stack data viz tools and user interfaces for ocean scientists at [DFO](https://www.dfo-mpo.gc.ca/index-eng.html) 🐳
+- developing full-stack data viz tools and user interfaces for ocean scientists at [DFO](https://www.dfo-mpo.gc.ca/index-eng.html) 🐳
 
-⭐️ probably working on my [personal website](https://faywu.ca/) or building [niche](https://chattychuds.vercel.app/) internet trinkets with my friendz 🧤
+- prob working on my [personal site](https://faywu.ca/) or building [niche](https://swwd.vercel.app/) [internet](https://chattychuds.vercel.app/) [trinkets](https://www.koinyou.com/) with my frenzz 🧤
 
 
 until we meet again 😼
