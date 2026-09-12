@@ -2,7 +2,7 @@
 
 i study computer science at the University of Waterloo, am a designer and a creative 🧃🎨🪿 who loves building user-centred software, silly trinkets, and communities.
 
-previously built software for research scientists @ Fisheries and Oceans Canada
+previously built software for research scientists @ Fisheries and Oceans Canada, currently a mentor for those projects i worked on
 
 looking for winter 2027 internship opportunities in product, software, or design :D
 
