@@ -1,8 +1,8 @@
-# hello, i'm fay ⋆𐙚₊
+# hello, i'm Fay ⋆𐙚₊
 
-i study computer science at uwaterloo, am a designer and a creative 🧃🎨🪿 who loves building user-centred software, silly trinkets, and communities far and wide.
+i study computer science at the University of Waterloo, am a designer and a creative 🧃🎨🪿 who loves building user-centred software, silly trinkets, and communities.
 
-previously built software for research scientists @ fisheries and oceans canada, currently a notion campus leader @ waterloo!
+previously built software for research scientists @ Fisheries and Oceans Canada
 
 looking for winter 2027 internship opportunities in product, software, or design :D
 
