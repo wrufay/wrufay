@@ -1,6 +1,7 @@
 # hello, i'm Fay ⋆𐙚₊
 
 i study computer science at the University of Waterloo, am a designer and a creative 🧃🎨🪿
+
 who loves building user-centred software, silly trinkets, and communities.
 
 building software for research scientists @ Fisheries and Oceans Canada
