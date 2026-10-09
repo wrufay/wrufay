@@ -10,7 +10,7 @@
 
 looking for fall 2027 design / front-end opportunities!
 
-glad you stopped by, until next time ⊹ ࣪ ˖
+glad you stopped by, until next time 🧃 ⊹ ࣪ ˖
 
 
 
