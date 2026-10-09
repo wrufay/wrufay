@@ -4,7 +4,7 @@
 
 ⋮ ⌗ love making art, being whimsy, exploring internet rabbit holes
 
-⋮ ⌗ incoming software engineering @ [Spellbook](https://spellbook.com/) 
+⋮ ⌗ incoming software engineer intern @ [Spellbook](https://spellbook.com/), prev @ [DFO](https://www.dfo-mpo.gc.ca/index-eng.html)
 
 ---
 
