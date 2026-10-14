@@ -9,7 +9,7 @@
 
 ---
 
-looking for fall 2027 design / front-end opportunities!
+looking for fall 2027 internship opportunities!
 
 glad you stopped by, until next time 🧃 ⊹ ࣪ ˖
 
