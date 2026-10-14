@@ -2,9 +2,10 @@
 
 ⋮ ⌗ studying computer science @ the University of Waterloo
 
+⋮ ⌗ incoming software engineer intern @ [Spellbook](https://spellbook.com/), prev @ [DFO](https://www.dfo-mpo.gc.ca/index-eng.html)
+
 ⋮ ⌗ love making art, being whimsy, exploring internet rabbit holes
 
-⋮ ⌗ incoming software engineer intern @ [Spellbook](https://spellbook.com/), prev @ [DFO](https://www.dfo-mpo.gc.ca/index-eng.html)
 
 ---
 
