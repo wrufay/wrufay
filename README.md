@@ -1,6 +1,6 @@
 # hi, i'm Fay 𐔌՞. .՞𐦯
 
-⋮ ⌗ i study computer science @ the University of Waterloo and i love being whimsy.
+⋮ ⌗ i study computer science @ the University of Waterloo. 
 
 
 looking for fall 2027 internship opportunities!
