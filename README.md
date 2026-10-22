@@ -1,17 +1,13 @@
 # hi, i'm Fay 𐔌՞. .՞𐦯
 
-⋮ ⌗ studying computer science @ the University of Waterloo
-
-⋮ ⌗ incoming software engineer intern @ [Spellbook](https://spellbook.com/), prev @ [DFO](https://www.dfo-mpo.gc.ca/index-eng.html)
-
-⋮ ⌗ love making art, being whimsy, and surfing the internet
+⋮ ⌗ i study computer science @ the University of Waterloo and love making art, being whimsy, and surfing the internet
 
 
 ---
 
 looking for fall 2027 internship opportunities!
 
-glad you stopped by, until next time... 🧃 ⊹ ࣪ ˖
+thanks for stopping by 🧃 ⊹ ࣪ ˖
 
 
 
