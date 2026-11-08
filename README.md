@@ -1,10 +1,10 @@
-# hi, i'm Fay 🌺
+# hi, i'm Fay!
 
-⋮⌗ i study computer science at the University of Waterloo.
+i study computer science at the University of Waterloo.
 
-building things (projects, friendships) makes me happy.
+⋮⌗ building things makes me happy ⸜(｡˃ ᵕ ˂ )⸝♡
 
-⸜(｡˃ ᵕ ˂ )⸝♡ [faywu.ca](https://faywu.ca/) ₊✩ [linkedin.com](https://www.linkedin.com/in/fayranw/) ‧₊ [x.com](https://x.com/wrufay) ˖ ݁⋆[♬](https://open.spotify.com/playlist/0k7El4GpUDhEbRgKd8RMBO?si=rmBhn7zTQ3mEz4tR10cVpw).˚
+[faywu.ca](https://faywu.ca/) ₊✩ [linkedin.com](https://www.linkedin.com/in/fayranw/) ‧₊ [x.com](https://x.com/wrufay) ˖ ݁⋆[♬](https://open.spotify.com/playlist/0k7El4GpUDhEbRgKd8RMBO?si=rmBhn7zTQ3mEz4tR10cVpw).˚
 
 
 
